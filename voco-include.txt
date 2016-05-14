@@ -1,0 +1,8 @@
+include;
+- mission/vison
+- email capture
+- links to social
+- founder profiles (social & contact)
+- survey link
+- contact email for freelance and general questions
+- offering (tomorrow)
