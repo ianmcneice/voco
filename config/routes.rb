@@ -1,11 +1,13 @@
 Rails.application.routes.draw do
+  get 'temp/home'
+
   get 'welcome/homepage'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
-  root 'welcome#homepage'
+  root 'temp#home'
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
